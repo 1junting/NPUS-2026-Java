@@ -3,7 +3,6 @@ Assignment I: Numerical Solution of a Nonlinear Equation Using Newton-Raphson Me
 Junting  
 NPUS 2026  
 Department of Computer Science  
-Email: (your email)
 
 ---
 
